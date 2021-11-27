@@ -6,8 +6,10 @@ Ahora que nos ha visto crear un archivo HTML y una hoja de estilo externa, crear
 
 Crear un nuevo archivo dentro de la carpeta `homework` llamado `homework.html` donde deberás realizar lo siguiente:
 ```
+
 I. Cree una página HTML básica.
   A. Cree el diseño básico para una página HTML usando html, head y body.
+  
   B. Agregue un elemento de título y asigne a su página el título de "Tarea HTML de [Su nombre]".
   C. En el cuerpo, crea tres divs.
     1. En el primer div crea:
@@ -78,3 +80,5 @@ Subir también este archivo a su repositorio de github
 ```
 
 > Para este ejercicio vos vas a tener que elegir que **tags** html usar para darle la mejor estructuración al html. Acordate que en el futuro vamos a ver más en profundidad los estilos CSS, por lo que por ahora no te preocupes tanto del layout más allá de las reglas básicas.
+
+
